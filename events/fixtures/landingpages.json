@@ -1,0 +1,32 @@
+[
+    {
+        "model": "events.landingpages",
+        "pk": 1,
+        "fields": {
+            "title": "Página 01",
+            "slug": "pagina-01",
+            "created_at": "2023-06-01T20:00:00.999Z",
+            "updated_at": "2023-06-01T20:00:00.999Z"
+        }
+    },
+    {
+        "model": "events.landingpages",
+        "pk": 2,
+        "fields": {
+            "title": "Página 02",
+            "slug": "pagina-02",
+            "created_at": "2023-06-01T20:00:00.999Z",
+            "updated_at": "2023-06-01T20:00:00.999Z"
+        }
+    },
+    {
+        "model": "events.landingpages",
+        "pk": 3,
+        "fields": {
+            "title": "Página 03",
+            "slug": "pagina-03",
+            "created_at": "2023-06-01T20:00:00.999Z",
+            "updated_at": "2023-06-01T20:00:00.999Z"
+        }
+    }
+]

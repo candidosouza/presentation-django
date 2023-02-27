@@ -1,0 +1,32 @@
+[
+    {
+        "model": "events.userregistration",
+        "pk": 1,
+        "fields": {
+            "name": "Jhon Doe",
+            "email": "jhondoe@email.com",
+            "created_at": "2023-06-01T20:00:00.999Z",
+            "updated_at": "2023-06-01T20:00:00.999Z"
+        }
+    },
+    {
+        "model": "events.userregistration",
+        "pk": 2,
+        "fields": {
+            "name": "Jhon Doe 01",
+            "email": "jhondoe01@email.com",
+            "created_at": "2023-06-01T20:00:00.999Z",
+            "updated_at": "2023-06-01T20:00:00.999Z"
+        }
+    },
+    {
+        "model": "events.userregistration",
+        "pk": 3,
+        "fields": {
+            "name": "Jhon Doe 02",
+            "email": "jhondoe02@email.com",
+            "created_at": "2023-06-01T20:00:00.999Z",
+            "updated_at": "2023-06-01T20:00:00.999Z"
+        }
+    }
+]
